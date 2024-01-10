@@ -1,0 +1,14 @@
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\bin\Debug\net8.0\Aula_C#alura.exe
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\bin\Debug\net8.0\Aula_C#alura.deps.json
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\bin\Debug\net8.0\Aula_C#alura.runtimeconfig.json
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\bin\Debug\net8.0\Aula_C#alura.dll
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\bin\Debug\net8.0\Aula_C#alura.pdb
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\obj\Debug\net8.0\Aula_C#alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\obj\Debug\net8.0\Aula_C#alura.AssemblyInfoInputs.cache
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\obj\Debug\net8.0\Aula_C#alura.AssemblyInfo.cs
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\obj\Debug\net8.0\Aula_C#alura.csproj.CoreCompileInputs.cache
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\obj\Debug\net8.0\Aula_C#alura.dll
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\obj\Debug\net8.0\refint\Aula_C#alura.dll
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\obj\Debug\net8.0\Aula_C#alura.pdb
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\obj\Debug\net8.0\Aula_C#alura.genruntimeconfig.cache
+C:\Users\labiu\OneDrive\Documentos\aula-C#alura\Aula_C#alura\Aula_C#alura\obj\Debug\net8.0\ref\Aula_C#alura.dll
